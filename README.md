@@ -8,3 +8,7 @@ Interesting learning across multiple programming languages.
 
 `f_string.py` 
 - Python F-String(Formated string) examples
+
+`functool_cache.py`
+- functool cache function demonstartion with help of fibonacci number generation.
+- functool cache mainly used to optimize the function performance with the help of cache method.
